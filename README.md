@@ -1,5 +1,9 @@
 ## 송민규
 
+###👩🏻‍💻About Me
+Soongsil Univ., Seoul, Korea (Computer Science)
+Currently studying Backend
+
 <!--
 **Yellout0311/Yellout0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
